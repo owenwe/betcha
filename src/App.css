@@ -1,0 +1,13 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+    box-sizing: border-box;
+}
+
+h1 small {
+    font-size: 1.25rem;
+    font-style: italic;
+}
+
+h4 {
+    margin-bottom: 5px;
+}
